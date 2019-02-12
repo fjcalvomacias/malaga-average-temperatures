@@ -1,0 +1,1 @@
+malaga-average-temperatures
