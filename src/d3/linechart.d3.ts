@@ -21,7 +21,6 @@ const d3 = {
     scaleBand,
     timeFormat,
     max,
-
 };
 
 // Constant. SVG Coordinate
