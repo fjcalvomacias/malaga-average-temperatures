@@ -2,3 +2,4 @@
 
 ## Vertical Bar Chart
 
+![demo_logo](/readme_files/demo_chart.png)
